@@ -68,14 +68,10 @@
 ## 📫 Me contacter
 <p align="center">
   <a href="mailto:k.kouakoum.k@gmail.com"><img src="https://img.shields.io/badge/Email-k.kouakoum.k@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://medium.com/@afouda.josue"><img src="https://img.shields.io/badge/Medium-Josué%20Afouda-black?style=for-the-badge&logo=medium"></a>
-  <a href="https://josueafouda.shinyapps.io/RShiny-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-R%20Shiny-brightgreen?style=for-the-badge&logo=rstudio"></a>
 </p>
 
 ---
 
 <p align="center">
-  <em>📢 Disponible pour des missions freelance en Data Science, Machine Learning et Data Engineering.</em>
+  <em>📢 Disponible pour des missions en Data Engineering, Machine Learning et Data Analyst.</em>
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=JosueAfouda&icon=0&color=0)](https://visitcount.itsvg.in)
