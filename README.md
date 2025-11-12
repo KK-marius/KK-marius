@@ -1,21 +1,21 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/JosueAfouda/JoshAutoML/blob/main/banner-data-science.png" alt="Data Science Banner" width="100%">
+ <!-- <img src="https://github.com/JosueAfouda/JoshAutoML/blob/main/banner-data-science.png" alt="Data Science Banner" width="100%"> -->
 </p>
 
-<h1 align="center">👋 Bonjour, je suis Josué AFOUDA</h1>
-<h3 align="center">Expert Data Scientist • Machine Learning Engineer • Data Engineer</h3>
+<h1 align="center">👋 Bonjour, je suis Marius KOUAKOU</h1>
+<h3 align="center">Développeur BI • Data Engineer • Data Analyst • Data Scientist </h3>
 
 <p align="center">
   <a href="mailto:afouda.josue@gmail.com">
-    <img src="https://img.shields.io/badge/Email-afouda.josue%40gmail.com-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-k.kouakoum.kgmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://medium.com/@afouda.josue">
+ <!-- <a href="https://medium.com/@afouda.josue">
     <img src="https://img.shields.io/badge/Medium-Josué%20Afouda-black?style=for-the-badge&logo=medium">
   </a>
   <a href="https://josueafouda.shinyapps.io/RShiny-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-R%20Shiny-brightgreen?style=for-the-badge&logo=rstudio">
-  </a>
+  </a>-->
 </p>
 
 ---
