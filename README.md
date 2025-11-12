@@ -1,28 +1,15 @@
-<!-- Banner -->
-<p align="center">
- <!-- <img src="https://github.com/JosueAfouda/JoshAutoML/blob/main/banner-data-science.png" alt="Data Science Banner" width="100%"> -->
-</p>
-
 <h1 align="center">👋 Bonjour, je suis Marius KOUAKOU</h1>
 <h3 align="center">Développeur BI • Data Engineer • Data Analyst • Data Scientist </h3>
 
 <p align="center">
-  <a href="mailto:afouda.josue@gmail.com">
-    <img src="https://img.shields.io/badge/Email-k.kouakoum.kgmail.com-red?style=for-the-badge&logo=gmail">
-  </a>
- <!-- <a href="https://medium.com/@afouda.josue">
-    <img src="https://img.shields.io/badge/Medium-Josué%20Afouda-black?style=for-the-badge&logo=medium">
-  </a>
-  <a href="https://josueafouda.shinyapps.io/RShiny-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-R%20Shiny-brightgreen?style=for-the-badge&logo=rstudio">
-  </a>-->
+  Professionnel dynamique, autonome et doté d’un fort sens de l’initiative, avec une expertise en analyse et intégration de données.
 </p>
 
 ---
 
 # 💫 About Me:
-* **Data Scientist | ML Engineer | Data Engineer** avec 7+ ans d’expérience en solutions data de bout en bout.<br>
-* Spécialiste **R Shiny, Python, SQL, PySpark, Databricks, Azure, GCP**.<br>
+* **Développeur BI | Data Engineer | ML Engineer** avec 2+ ans d’expérience en solutions data de bout en bout.<br>
+* Spécialiste **Talend, Python, SQL, Java, Snowflake, Azure, GCP**.<br>
 * Réalisations :<br><br>
   * Pipelines Big Data (2M+ transactions/jour)<br>
   * Apps interactives R Shiny & dashboards Power BI (40+ utilisateurs)<br>
