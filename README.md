@@ -1,22 +1,94 @@
-<h1 align="center">Hi 👋, I'm Marius KOUAKOU</h1>
-<h3 align="center">Professionnel dynamique, autonome et doté d’un fort sens de l’initiative, avec une expertise en analyse et intégration de données.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kk-marius&label=Profile%20views&color=0e75b6&style=flat" alt="kk-marius" /> </p>
-
-- 🔭 I’m currently working on **Data Warehouse and Analytics**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marius kouakou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marius kouakou" height="30" width="40" /></a>
-<a href="https://fb.com/marus kouakou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marus kouakou" height="30" width="40" /></a>
-<a href="https://instagram.com/marius kouakou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marius kouakou" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/JosueAfouda/JoshAutoML/blob/main/banner-data-science.png" alt="Data Science Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Bonjour, je suis Josué AFOUDA</h1>
+<h3 align="center">Expert Data Scientist • Machine Learning Engineer • Data Engineer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kk-marius&show_icons=true&locale=en&layout=compact" alt="kk-marius" /></p>
+<p align="center">
+  <a href="mailto:afouda.josue@gmail.com">
+    <img src="https://img.shields.io/badge/Email-afouda.josue%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://medium.com/@afouda.josue">
+    <img src="https://img.shields.io/badge/Medium-Josué%20Afouda-black?style=for-the-badge&logo=medium">
+  </a>
+  <a href="https://josueafouda.shinyapps.io/RShiny-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-R%20Shiny-brightgreen?style=for-the-badge&logo=rstudio">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kk-marius&show_icons=true&locale=en" alt="kk-marius" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kk-marius&" alt="kk-marius" /></p>
+# 💫 About Me:
+* **Data Scientist | ML Engineer | Data Engineer** avec 7+ ans d’expérience en solutions data de bout en bout.<br>
+* Spécialiste **R Shiny, Python, SQL, PySpark, Databricks, Azure, GCP**.<br>
+* Réalisations :<br><br>
+  * Pipelines Big Data (2M+ transactions/jour)<br>
+  * Apps interactives R Shiny & dashboards Power BI (40+ utilisateurs)<br>
+  * Intégration ML (+12% précision) & automatisation (8h → 15 min)<br>
+* Disponible pour missions freelance **Data Science / ML / Data Eng**.
+
+---
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+
+---
+
+**Langages & Frameworks**  
+- Python | R | SQL | PySpark | Sparklyr  
+- Pandas | Tidyverse | Scikit-Learn | TensorFlow | PyTorch | XGBoost  
+- R Shiny | Streamlit | FastAPI  
+
+**Cloud & BI**  
+- Azure | GCP | BigQuery | Snowflake | Power BI | Posit Connect  
+
+**DevOps & MLOps**  
+- Docker | GitHub Actions | Azure DevOps | OpenShift | Jenkins  
+- CI/CD | Airflow | Google Cloud Composer  
+
+---
+
+## 📊 Réalisations marquantes
+
+- **2M+ transactions/jour** traitées dans des pipelines PySpark & Databricks  
+- Intégration de modèles ML (LSTM, AutoEncoder) en production, **+12% de précision**  
+- Développement de **6 applications R Shiny** et **4 dashboards Power BI** adoptés par 40+ managers  
+- Automatisation de **1 200+ fichiers Excel/mois** : gain de temps **8h → 15 min**  
+- Formation de **50+ utilisateurs métiers** et adoption pérenne des outils data  
+
+---
+
+## 🌟 Ce que je peux apporter
+✅ Expertise technique solide & approche orientée business  
+✅ Solutions scalables et maintenables  
+✅ Communication fluide avec les équipes métiers  
+✅ Livraison rapide avec haute qualité
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JosueAfouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JosueAfouda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAfouda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JosueAfouda&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 📫 Me contacter
+<p align="center">
+  <a href="mailto:afouda.josue@gmail.com"><img src="https://img.shields.io/badge/Email-afouda.josue%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://medium.com/@afouda.josue"><img src="https://img.shields.io/badge/Medium-Josué%20Afouda-black?style=for-the-badge&logo=medium"></a>
+  <a href="https://josueafouda.shinyapps.io/RShiny-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-R%20Shiny-brightgreen?style=for-the-badge&logo=rstudio"></a>
+</p>
+
+---
+
+<p align="center">
+  <em>📢 Disponible pour des missions freelance en Data Science, Machine Learning et Data Engineering.</em>
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=JosueAfouda&icon=0&color=0)](https://visitcount.itsvg.in)
