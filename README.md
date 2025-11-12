@@ -67,7 +67,7 @@
 
 ## 📫 Me contacter
 <p align="center">
-  <a href="mailto:afouda.josue@gmail.com"><img src="https://img.shields.io/badge/Email-afouda.josue%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:k.kouakoum.k@gmail.com"><img src="https://img.shields.io/badge/Email-k.kouakoum.k@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://medium.com/@afouda.josue"><img src="https://img.shields.io/badge/Medium-Josué%20Afouda-black?style=for-the-badge&logo=medium"></a>
   <a href="https://josueafouda.shinyapps.io/RShiny-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-R%20Shiny-brightgreen?style=for-the-badge&logo=rstudio"></a>
 </p>
