@@ -60,7 +60,7 @@
   <a href="mailto:k.kouakoum.k@gmail.com">
     <img src="https://img.shields.io/badge/Email-k.kouakoum.k@gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/marius kouakou/">
+  <a href="https://www.linkedin.com/in/marius-kouakou-b3308a208/">
     <img src="https://img.shields.io/badge/LinkedIn-marius kouakou-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
