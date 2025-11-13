@@ -29,10 +29,10 @@
 - R Shiny | Streamlit | FastAPI  
 
 **Cloud & BI**  
-- Azure | GCP | BigQuery | Snowflake | Power BI | Posit Connect  
+- Azure | GCP | BigQuery | Snowflake | Power BI | Tableau  
 
 **DevOps & MLOps**  
-- Docker | GitHub Actions | Azure DevOps | OpenShift | Jenkins  
+- Docker | GitHub Actions | Azure DevOps | Jenkins  
 - CI/CD | Airflow | Google Cloud Composer  
 
 ---
@@ -57,7 +57,12 @@
 
 ## 📫 Me contacter
 <p align="center">
-  <a href="mailto:k.kouakoum.k@gmail.com"><img src="https://img.shields.io/badge/Email-k.kouakoum.k@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:k.kouakoum.k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-k.kouakoum.k@gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/marius kouakou/">
+    <img src="https://img.shields.io/badge/LinkedIn-marius kouakou-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
