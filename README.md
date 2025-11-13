@@ -14,7 +14,7 @@
   * Pipelines Big Data (2M+ transactions/jour)<br>
   * Apps interactives R Shiny & dashboards Power BI (40+ utilisateurs)<br>
   * Intégration ML (+12% précision) & automatisation (8h → 15 min)<br>
-* Disponible pour missions freelance **Data Science / ML / Data Eng**.
+* Disponible pour missions **Data Eng / ML / Data Science / Data Analyst**.
 
 ---
 
