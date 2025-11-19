@@ -1,5 +1,5 @@
 <h1 align="center">👋 Bonjour, je suis Marius KOUAKOU</h1>
-<h3 align="center"> Data Engineer • Développeur BI• Data Analyst • Data Scientist </h3>
+<h3 align="center"> Data Engineer • Développeur BI • Data Analyst • Data Scientist </h3>
 
 <p align="center">
   Professionnel dynamique, autonome et doté d’un fort sens de l’initiative, avec une expertise en analyse et intégration de données.
