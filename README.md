@@ -64,8 +64,8 @@
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
     </td>
     <td>
-      <strong>Visualisation & BI</strong><br>
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
+      <strong>Data visualisation</strong><br>
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
       <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
