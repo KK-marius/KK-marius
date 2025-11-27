@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white">
       <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white">
       <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL Server-4285F4?logo=sql_server&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL Server-4285F4?logo=sqlServer&logoColor=white">
     </td>
   </tr>
   <tr>
