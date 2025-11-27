@@ -83,8 +83,8 @@
     <td>
       <strong>Versioning</strong><br>
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/github-F05032?logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/github-blue?logo=github">
+      <img src="https://img.shields.io/badge/gitlab-F05032?logo=gitlab&logoColor=white">
     </td>
   </tr>
 </table>
