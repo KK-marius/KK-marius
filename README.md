@@ -47,6 +47,7 @@
     <td width="25%">
       <strong>Data Storage</strong><br>
       <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
       <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white">
       <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white">
