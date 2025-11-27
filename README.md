@@ -45,12 +45,12 @@
       <img src="https://img.shields.io/badge/PySpark-BigData-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
     </td>
     <td width="25%">
-      <strong>Data Engineering & Cloud</strong><br>
+      <strong>Data Storage</strong><br>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-      <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white">
+      <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
       <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
       <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+      <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
     </td>
   </tr>
   <tr>
