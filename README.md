@@ -46,10 +46,10 @@
     </td>
     <td width="25%">
       <strong>Data Storage</strong><br>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
       <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
-      <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
+      <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white">
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white">
       <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
     </td>
   </tr>
