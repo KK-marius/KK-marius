@@ -7,7 +7,7 @@
 
 ---
 
-# 💫 About Me:
+# About Me:
 * **Data Engineer BI | ML Engineer** avec 2+ ans d’expérience en solutions data de bout en bout.<br>
 * Spécialiste **Talend, Python, SQL, Java, Snowflake, Azure, GCP**.<br>
 * Réalisations :<br><br>
