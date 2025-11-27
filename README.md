@@ -81,6 +81,11 @@
       <img src="https://img.shields.io/badge/Sphinx-3C3C3C?style=for-the-badge">
     </td>
     <td>
+      <strong>Versioning</strong><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/github-repo-F05032?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+    <td>
       <strong>Autres</strong><br>
       <img src="https://img.shields.io/badge/Data_Governance-607D8B?style=for-the-badge">
       <img src="https://img.shields.io/badge/ML_Lifecycle-3E4E88?style=for-the-badge">
