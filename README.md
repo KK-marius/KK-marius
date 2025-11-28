@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white">
       <img src="https://img.shields.io/badge/SQL-07405e?logo=sql&logoColor=white">
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
       <img src="https://img.shields.io/badge/PySpark-E25A1C?&logo=apachespark&logoColor=white">
     </td>    
     <td width="25%">
