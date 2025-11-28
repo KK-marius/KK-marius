@@ -53,6 +53,7 @@
       <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white">
       <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
       <img src="https://img.shields.io/badge/SQL%20Server-4285F4?logo=microsoftsqlserver&logoColor=white">    
+      <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white">    
     </td>
   </tr>
   <tr>
