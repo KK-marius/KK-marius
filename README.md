@@ -95,20 +95,6 @@
 
 ---
 
-**Langages & Frameworks**  
-- Python | R | SQL | PySpark | Sparklyr  
-- Pandas | Tidyverse | Scikit-Learn | TensorFlow | PyTorch | XGBoost  
-- R Shiny | Streamlit | FastAPI  
-
-**Cloud & BI**  
-- Azure | GCP | BigQuery | Snowflake | Power BI | Tableau  
-
-**DevOps & MLOps**  
-- Docker | GitHub Actions | Azure DevOps | Jenkins  
-- CI/CD | Airflow | Google Cloud Composer  
-
----
-
 ## 📊 Réalisations marquantes
 
 - **2M+ transactions/jour** traitées dans des pipelines PySpark & Databricks  
