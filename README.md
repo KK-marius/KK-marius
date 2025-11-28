@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
       <img src="https://img.shields.io/badge/SQL%20Server-4285F4?logo=microsoftsqlserver&logoColor=white">    
       <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white">    
-      <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white">    
+      <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white">    
     </td>
   </tr>
   <tr>
