@@ -22,19 +22,19 @@
 <table align="center" style="width: 100%; text-align: center; font-family: sans-serif;">
   <tr>
     <td width="25%">
+      <strong>Data Integration</strong><br>
+      <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
+      <img src="https://img.shields.io/badge/Talend-009688?logo=talend&logoColor=white">
+      <img src="https://img.shields.io/badge/Bayesien-Inférence-FF5722?style=for-the-badge">
+      <img src="https://img.shields.io/badge/MCMC-Probabilistic-9C27B0?style=for-the-badge">
+    </td>    
+    <td width="25%">
       <strong>Machine Learning</strong><br>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
       <img src="https://img.shields.io/badge/XGBoost-ensemble-E53935?style=for-the-badge">
       <img src="https://img.shields.io/badge/LightGBM-boosting-4CAF50?style=for-the-badge">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-    </td>
-    <td width="25%">
-      <strong>Modélisation Mathématique</strong><br>
-      <img src="https://img.shields.io/badge/ARIMA-Time_Series-007ACC?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Optimisation-Mathématique-009688?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Bayesien-Inférence-FF5722?style=for-the-badge">
-      <img src="https://img.shields.io/badge/MCMC-Probabilistic-9C27B0?style=for-the-badge">
     </td>
     <td width="25%">
       <strong>Langages</strong><br>
@@ -51,7 +51,6 @@
       <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
       <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white">
       <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white">
-      <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
       <img src="https://img.shields.io/badge/SQL%20Server-4285F4?logo=microsoftsqlserver&logoColor=white">    
       <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white">    
       <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white">    
