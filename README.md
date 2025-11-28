@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>
-      <strong>MLOps & Déploiement</strong><br>
+      <strong>MLOps & Déploiement & Framework</strong><br>
       <img src="https://img.shields.io/badge/FastAPI-009688?">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white">
