@@ -39,7 +39,7 @@
     </td>    
     <td width="25%">
       <strong>Machine Learning</strong><br>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
       <img src="https://img.shields.io/badge/XGBoost-ensemble-E53935?style=for-the-badge">
       <img src="https://img.shields.io/badge/LightGBM-boosting-4CAF50?style=for-the-badge">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
