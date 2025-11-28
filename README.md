@@ -28,9 +28,9 @@
       <img src="https://img.shields.io/badge/SQL%20Server%20Integration%20Services-FF5722?logo=ssis&logoColor=white">
     </td>
     <td width="25%">
-      <strong>Data Processing</strong><br>
+      <strong>Data Processing & Language</strong><br>
       <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+      <img src="https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white">
       <img src="https://img.shields.io/badge/SQL-07405e?style=for-the-badge&logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
       <img src="https://img.shields.io/badge/PySpark-BigData-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
