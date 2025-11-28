@@ -46,7 +46,7 @@
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
     </td>
     <td width="25%">
-      <strong>Data Storage</strong><br>
+      <strong>Data Storage & Cloud</strong><br>
       <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
       <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
