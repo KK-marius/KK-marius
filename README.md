@@ -60,12 +60,12 @@
   <tr>
     <td>
       <strong>MLOps & Déploiement</strong><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-      <img src="https://img.shields.io/badge/Streamlit-F14C8D?style=for-the-badge&logo=streamlit&logoColor=white">
-      <img src="https://img.shields.io/badge/MLflow-F65E3B?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-009688?">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white">
+      <img src="https://img.shields.io/badge/Streamlit-F14C8D?logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/MLflow-F65E3B?">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
     </td>
     <td>
       <strong>Data visualisation</strong><br>
