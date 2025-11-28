@@ -65,6 +65,7 @@
       <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white">
       <img src="https://img.shields.io/badge/Streamlit-F14C8D?logo=streamlit&logoColor=white">
       <img src="https://img.shields.io/badge/MLflow-F65E3B?">
+      <img src="https://img.shields.io/badge/CI/CD-0A66C2?">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
     </td>
     <td>
@@ -77,11 +78,8 @@
     </td>
     <td>
       <strong>Gestion de Projet</strong><br>
-      <img src="https://img.shields.io/badge/Agile/Scrum-795548?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-      <img src="https://img.shields.io/badge/Sphinx-3C3C3C?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Agile/Scrum-795548?">
+      <img src="https://img.shields.io/badge/ITIL-000000?logo=itil&logoColor=white">
     </td>
     <td>
       <strong>Versioning</strong><br>
