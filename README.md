@@ -71,10 +71,9 @@
       <strong>Data visualisation</strong><br>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white">
       <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
-      <img src="https://img.shields.io/badge/Excel-11557C?logo=excel&logoColor=white">
-      <img src="https://img.shields.io/badge/Qlik%20Sense-4C72B0?logo=qliksenes&logoColor=white">
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge">
-      <img src="https://img.shields.io/badge/Dash-119DFF?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Excel-11557C?logo=microsoft-excel&logoColor=white">
+      <img src="https://img.shields.io/badge/Qlik%20Sense-4C72B0?logo=qlik&logoColor=white">
+      <img src="https://img.shields.io/badge/Looker%20Studio-3F4F75?logo=looker&logoColor=white">
     </td>
     <td>
       <strong>Gestion de Projet</strong><br>
