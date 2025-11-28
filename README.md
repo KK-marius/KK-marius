@@ -69,6 +69,7 @@
       <img src="https://img.shields.io/badge/MLflow-F65E3B?">
       <img src="https://img.shields.io/badge/CI/CD-0A66C2?">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+      <img src="https://img.shields.io/badge/ITIL-000000?logo=itil&logoColor=white">
     </td>
     <td>
       <strong>Data visualisation</strong><br>
