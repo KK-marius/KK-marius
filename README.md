@@ -68,7 +68,7 @@
     </td>
     <td>
       <strong>Data visualisation</strong><br>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
       <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
