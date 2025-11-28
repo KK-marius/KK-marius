@@ -40,7 +40,7 @@
     <td width="25%">
       <strong>Machine Learning</strong><br>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/XGBoost-ensemble-E53935?style=for-the-badge">
+      <img src="https://img.shields.io/badge/XGBoost-ensemble-E53935?">
       <img src="https://img.shields.io/badge/LightGBM-boosting-4CAF50?style=for-the-badge">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
