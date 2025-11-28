@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white">
       <img src="https://img.shields.io/badge/SQL-07405e?logo=sql&logoColor=white">
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-      <img src="https://img.shields.io/badge/PySpark-BigData-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?&logo=apachespark&logoColor=white">
     </td>    
     <td width="25%">
       <strong>Machine Learning</strong><br>
