@@ -25,7 +25,7 @@
       <strong>Data Integration</strong><br>
       <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white">
       <img src="https://img.shields.io/badge/Talend-009688?logo=talend&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL%20Server%20Integration%20Services-FF5722?logo=ssis&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL%20Server%20Integration%20Services-FF5722?logo=sqlserverintegrationservices&logoColor=white">
       <img src="https://img.shields.io/badge/MCMC-Probabilistic-9C27B0?style=for-the-badge">
     </td>    
     <td width="25%">
