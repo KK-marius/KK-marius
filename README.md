@@ -9,7 +9,7 @@
 
 # About Me:
 * **Je suis Data Engineer & BI Developer** avec 2 ans d’expérience dans la conception de solutions data de bout en bout.<br>
-* Passionné par la collaboration avec les métiers, j’aime concevoir des solutions fiables, évolutives et génératrices de valeur, capables d’avoir un impact immédiat et durable.**.
+* Passionné par la collaboration avec les métiers, j’aime concevoir des solutions fiables, évolutives et génératrices de valeur, capables d’avoir un impact immédiat et durable.
 
 ---
 
