@@ -69,6 +69,7 @@
       <img src="https://img.shields.io/badge/MLflow-F65E3B?">
       <img src="https://img.shields.io/badge/CI/CD-0A66C2?">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+      <img src="https://img.shields.io/badge/Jenkins-2C5263?logo=jenkins&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Actions-000000?logo=githubactions&logoColor=white">
     </td>
     <td>
