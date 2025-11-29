@@ -113,8 +113,10 @@
 
 ## 📫 Me contacter
 <p align="center">
-  <a href="mailto:k.kouakoum.k@gmail.com"><img src="https://img.shields.io/badge/Email-k.kouakoum.k@gmail.com-red?&logo=gmail"></a>
+  <a href="mailto:k.kouakoum.k@gmail.com" target="_blank" title="k.kouakoum.k@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+  
   <a href="https://www.linkedin.com/in/marius-kouakou-b3308a208/"><img src="https://img.shields.io/badge/LinkedIn-Marius%20KOUAKOU-blue?&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/sandip-das-developer/" title="sandip-das-developer" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 </p>
 
 ---
