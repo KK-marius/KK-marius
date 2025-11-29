@@ -1,5 +1,5 @@
-<h1 align="center">👋 Bonjour, je suis Marius KOUAKOU</h1>
-<h3 align="center"> Data Engineer • Développeur BI • Data Analyst • Data Scientist </h3>
+<h1 align="center">👋 Bonjour, je me nomme Marius KOUAKOU</h1>
+<h3 align="center"> Data Engineer • BI Developer • Data Analyst • Data Scientist </h3>
 
 <p align="center">
   Professionnel dynamique, autonome et doté d’un fort sens de l’initiative, avec une expertise en analyse et intégration de données.
@@ -8,7 +8,7 @@
 ---
 
 # About Me:
-* **Data Engineer BI | ML Engineer** avec 2+ ans d’expérience en solutions data de bout en bout.<br>
+* **Je suis Data Engineer & BI Developer** avec 2 ans d’expérience dans la conception de solutions data de bout en bout.<br>
 * Spécialiste **Talend, Python, SQL, Java, Snowflake, Azure, GCP**.<br>
 * Réalisations :<br><br>
   * Pipelines Big Data (2M+ transactions/jour)<br>
