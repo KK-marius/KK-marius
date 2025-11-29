@@ -67,7 +67,6 @@
       <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white">
       <img src="https://img.shields.io/badge/Streamlit-F14C8D?logo=streamlit&logoColor=white">
       <img src="https://img.shields.io/badge/MLflow-F65E3B?logo=mlflow&logoColor=white">
-      <img src="https://img.shields.io/badge/CI%20CD-0A66C2?logo=githubactions&logoColor=white">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
       <img src="https://img.shields.io/badge/Jenkins-2C5263?logo=jenkins&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Actions-000000?logo=githubactions&logoColor=white">
