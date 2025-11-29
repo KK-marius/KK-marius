@@ -112,7 +112,7 @@
 ---
 
 ## 📫 Me contacter
-<p align="center">
+<p>
   <a href="mailto:k.kouakoum.k@gmail.com" target="_blank" title="k.kouakoum.k@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
   <a href="https://www.linkedin.com/in/marius-kouakou-b3308a208/" title="marius-kouakou-b3308a208" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 </p>
