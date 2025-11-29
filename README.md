@@ -16,8 +16,8 @@
 
 ##  Mes spécialités
 
-✅ Recueil des besoins auprès des équipes métiers et écriture des spécification fonctionnelles <br>  
-✅ Création et l’optimisation de data warehouses (Snowflake, BigQuery) <br>
+✅ Recueil des besoins auprès des équipes métiers et écriture des spécification fonctionnelles  
+✅ Création et l’optimisation de data warehouses et data lake <br>
 ✅ Gestion de projets data de bout en bout <br>
 ✅ Conception de dashboards avancés, intelligents et interactifs <br>
 ✅ Le nettoyage, le prétraitement et la modélisation machine learning des données 
