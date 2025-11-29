@@ -14,13 +14,13 @@
 
 ---
 
-## 📊 Réalisations marquantes
+##  Mes spécialités
 
-✅ **Recueil des besoins auprès des équipes métiers et écriture des spécification fonctionnelles  
-✅ Intégration de modèles ML (LSTM, AutoEncoder) en production, **+12% de précision**  
-✅ Développement de **6 applications R Shiny** et **4 dashboards Power BI** adoptés par 40+ managers  
-✅ Automatisation de **1 200+ fichiers Excel/mois** : gain de temps **8h → 15 min**  
-✅ Formation de **50+ utilisateurs métiers** et adoption pérenne des outils data  
+✅ Recueil des besoins auprès des équipes métiers et écriture des spécification fonctionnelles  
+✅ Création et l’optimisation de data warehouses (Snowflake, BigQuery) 
+✅ Gestion de projets data de bout en bout
+✅ Conception de dashboards avancés, intelligents et interactifs 
+✅ Le nettoyage, le prétraitement et la modélisation machine learning des données 
 
 ---
 
