@@ -2,23 +2,18 @@
 <h3 align="center"> Data Engineer • BI Developer • Data Analyst • Data Scientist </h3>
 
 <p align="center">
-  Professionnel dynamique, autonome et doté d’un fort sens de l’initiative, avec une expertise en analyse et intégration de données.
+  Professionnel, autonome et doté d’un fort sens de l’initiative, avec une expertise en analyse et intégration de données.
 </p>
 
 ---
 
 # About Me:
 * **Je suis Data Engineer & BI Developer** avec 2 ans d’expérience dans la conception de solutions data de bout en bout.<br>
-* Spécialiste **Talend, Python, SQL, Java, Snowflake, Azure, GCP**.<br>
-* Réalisations :<br><br>
-  * Pipelines Big Data (2M+ transactions/jour)<br>
-  * Apps interactives R Shiny & dashboards Power BI (40+ utilisateurs)<br>
-  * Intégration ML (+12% précision) & automatisation (8h → 15 min)<br>
-* Disponible pour missions **Data Eng / ML / Data Science / Data Analyst**.
+* Passionné par la collaboration avec les métiers, j’aime concevoir des solutions fiables, évolutives et génératrices de valeur, capables d’avoir un impact immédiat et durable.**.
 
 ---
 
-# 💻 Tech Stack:
+# Compétences clés:
 <table align="center" style="width: 100%; text-align: center; font-family: sans-serif;">
   <tr>
     <td width="25%">
