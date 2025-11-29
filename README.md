@@ -7,14 +7,25 @@
 
 ---
 
-# À propos de moi:
+# À propos de moi
 * **Je suis Data Engineer & BI Developer** avec 2 ans d’expérience dans la conception de solutions data de bout en bout.<br>
 
 * Passionné par la collaboration avec les métiers, j’aime concevoir des solutions fiables, évolutives et génératrices de valeur, capables d’avoir un impact immédiat et durable.
 
 ---
 
-# Compétences clés:
+## 📊 Réalisations marquantes
+
+✅ **Recueil des besoins auprès des équipes métiers et écriture des spécification fonctionnelles  
+✅ Intégration de modèles ML (LSTM, AutoEncoder) en production, **+12% de précision**  
+✅ Développement de **6 applications R Shiny** et **4 dashboards Power BI** adoptés par 40+ managers  
+✅ Automatisation de **1 200+ fichiers Excel/mois** : gain de temps **8h → 15 min**  
+✅ Formation de **50+ utilisateurs métiers** et adoption pérenne des outils data  
+
+---
+
+
+# Compétences clés
 <table align="center" style="width: 100%; text-align: center; font-family: sans-serif;">
   <tr>
     <td width="25%">
@@ -88,16 +99,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Réalisations marquantes
-
-- **2M+ transactions/jour** traitées dans des pipelines PySpark & Databricks  
-- Intégration de modèles ML (LSTM, AutoEncoder) en production, **+12% de précision**  
-- Développement de **6 applications R Shiny** et **4 dashboards Power BI** adoptés par 40+ managers  
-- Automatisation de **1 200+ fichiers Excel/mois** : gain de temps **8h → 15 min**  
-- Formation de **50+ utilisateurs métiers** et adoption pérenne des outils data  
 
 ---
 
