@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54">
       <img src="https://img.shields.io/badge/Java-E25A1C?&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white">
-      <img src="https://img.shields.io/badge/Spark-E25A1C?&logo=apachespark&logoColor=white">
+      <img src="https://img.shields.io/badge/Apache%20Spark-FFFFFF?&logo=apachespark&logoColor=#E35A16">
       <img src="https://img.shields.io/badge/SQL-07405e?logo=sql&logoColor=white">
       <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
       <img src="https://img.shields.io/badge/PySpark-E25A1C?&logo=apachespark&logoColor=white">
