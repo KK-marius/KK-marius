@@ -36,6 +36,7 @@
       <img src="https://img.shields.io/badge/Talend-009688?logo=talend&logoColor=white">
       <img src="https://img.shields.io/badge/SQL%20Server%20Integration%20Services-FF5722?logo=ssis&logoColor=white">
       <img src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka">
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-blue?logo=azuredatafactory&logoColor=white">  
     </td>
     <td width="25%">
       <strong>Data Processing & Language</strong><br>
