@@ -6,7 +6,8 @@
     alt="Typing animation"  />
 </div>
 
-<div align="center"> 
+<div align="center">
+
   ![](https://komarev.com/ghpvc/?username=KK-marius&style=for-the-badge)
 </div>
 
