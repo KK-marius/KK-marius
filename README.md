@@ -2,7 +2,7 @@
 <h3 align="center"> Data Engineer • BI Developer • Data Analyst • Data Scientist </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&pause=50&color=00ADB5&center=true&vCenter=true&multiline=true&width=900&lines=Professionnel,+autonome+et+passioné+par+l'analyse+et+l'intégration+de+données." alt="Typing animation"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&pause=50&color=00ADB5&center=true&vCenter=true&multiline=true&width=900&lines=Professionnel,+autonome+et+passionné+par+l'analyse+et+l'intégration+de+données." alt="Typing animation"  />
 
   ![](https://komarev.com/ghpvc/?username=KK-marius)
 </div>
