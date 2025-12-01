@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je me nomme Marius KOUAKOU</h1>
+<h1 align="center">👋 Bonjour, je me nomme Marius KOUAKOU ![](https://komarev.com/ghpvc/?username=KK-marius)</h1>
 <h3 align="center"> Data Engineer • BI Developer • Data Analyst • Data Scientist </h3>
 
 <div align="center">
@@ -6,14 +6,9 @@
     alt="Typing animation"  />
 </div>
 
-<div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=KK-marius)
-</div>
-
 ---
 
-# À propos de moi
+# À propos de moi 
 * **Je suis Data Engineer & BI Developer** avec 2 ans d’expérience dans la conception de solutions data de bout en bout.<br>
 
 * Passionné par la collaboration avec les métiers, j’aime concevoir des solutions fiables, évolutives et génératrices de valeur, capables d’avoir un impact immédiat et durable.
