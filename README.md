@@ -1,9 +1,8 @@
-<h1 align="center">👋 Bonjour, je me nomme Marius KOUAKOU ![](https://komarev.com/ghpvc/?username=KK-marius)</h1>
+<h1 align="center">👋 Bonjour, je me nomme Marius KOUAKOU </h1>
 <h3 align="center"> Data Engineer • BI Developer • Data Analyst • Data Scientist </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&pause=50&color=00ADB5&center=true&vCenter=true&multiline=true&width=900&lines=Professionnel,+autonome+et+doté+d’un+fort+sens+de+l’initiative.;Expert+en+analyse+et+intégration+de+données." 
-    alt="Typing animation"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&pause=50&color=00ADB5&center=true&vCenter=true&multiline=true&width=900&lines=Professionnel,+autonome+et+doté+d’un+fort+sens+de+l’initiative.;Passioné+par+l'analyse+et+l'intégration+de+données." alt="Typing animation"  />
 </div>
 
 ---
