@@ -60,7 +60,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white">
       <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white">
       <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL%20Server-4285F4?logo=microsoftsqlserver&logoColor=white">    
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white">    
       <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white">    
       <img src="https://img.shields.io/badge/Azure-blue?logo=azure&logoColor=white">      
       <img src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white">
