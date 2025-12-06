@@ -1,5 +1,5 @@
 <h1 align="center">👋 Bonjour, je me nomme Marius KOUAKOU </h1>
-<h3 align="center"> Data Engineer • BI Developer • Data Analyst • Data Scientist </h3>
+<h3 align="center"> IA Engineer • Data Engineer • BI Developer • Data Scientist </h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=18&pause=50&color=00ADB5&center=true&vCenter=true&multiline=true&width=900&lines=Professionnel,+autonome+et+passionné+par+l'analyse+et+l'intégration+de+données." alt="Typing animation"  />
@@ -10,7 +10,7 @@
 ---
 
 # À propos de moi 
-* **Je suis Data Engineer & BI Developer** avec 2 ans d’expérience dans la conception de solutions data de bout en bout.<br>
+* **Je suis Data Engineer, IA & BI Developer** avec 2 ans d’expérience dans la conception de solutions data de bout en bout.<br>
 
 * Passionné par la collaboration avec les métiers, j’aime concevoir des solutions fiables, évolutives et génératrices de valeur, capables d’avoir un impact immédiat et durable.
 
