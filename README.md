@@ -123,5 +123,5 @@
 ---
 
 <p align="center">
-  <em> Disponible pour des missions en Data Engineering, BI Developer, Data Analyst et Machine Learning.</em>
+  <em> Disponible pour des missions en IA, Data Engineering, BI Developer, Data Analyst et Machine Learning.</em>
 </p>
