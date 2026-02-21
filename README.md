@@ -116,8 +116,8 @@
 
 ## Me contacter
 <p>
-  <a href="mailto:kouakou.k.marius@outlook.com" target="_blank" title="adresse mail" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
-  <a href="https://www.linkedin.com/in/marius-kouakou-b3308a208/" title="marius-kouakou-b3308a208" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+  <a href="mailto:kouakou.k.marius@outlook.com" target="_blank" title="adresse de messagerie" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/marius-kouakou-b3308a208/" title="profl linkedIn" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 </p>
 
 ---
