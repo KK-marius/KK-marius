@@ -115,7 +115,7 @@
 ---
 
 ## Me contacter
-<div>
+<div align="left">
   <a href="mailto:kouakou.k.marius@outlook.com" target="_blank" title="adresse de messagerie" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/>
   </a>
