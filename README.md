@@ -115,7 +115,7 @@
 ---
 
 ## Me contacter
-<div align="center">
+<div>
   <a href="mailto:kouakou.k.marius@outlook.com" target="_blank" title="adresse de messagerie" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/>
   </a>
@@ -126,6 +126,6 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <em> Disponible pour des missions en IA, Data Engineering, BI Developer, Data Analyst et Machine Learning.</em>
-</p>
+</div>
