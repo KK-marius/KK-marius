@@ -115,16 +115,17 @@
 ---
 
 ## Me contacter
-<div>
+<p>
   <a href="mailto:kouakou.k.marius@outlook.com" target="_blank" title="adresse de messagerie" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/>
   </a>
-</div>
-<div>
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/marius-kouakou-b3308a208/" title="profl linkedIn" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-</div>
+</p>
 
 ---
 
